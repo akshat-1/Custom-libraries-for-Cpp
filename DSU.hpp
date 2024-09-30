@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-// assuming the n nodes are 0,1,2,3..,n
+// assuming the n nodes are 0,1,2,3..,n-1
 class DSU {
 public:
     int n;
